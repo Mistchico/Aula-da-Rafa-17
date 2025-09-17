@@ -17,5 +17,3 @@ public class Calc {
         // TODO: implementar
         return 0; 
     }
-    public int soma(int a, int b) { return a + b; }
-    
